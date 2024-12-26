@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborating
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that are not too complex
-- 📫 How to reach me @linkendIn
+- 📫 How to reach me @linkedIn
 - 😄 Pronouns: Var/let
 
 <!---
